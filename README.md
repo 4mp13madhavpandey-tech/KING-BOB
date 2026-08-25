@@ -9,7 +9,7 @@ King Bob is a smart Discord AI Bot that can be used through any model and its AP
 # FEATURES OF BOB
 * Available on whatever model you use just needs the API Keys while hosting.
 * You can send messages as BOB in DM of a specific user in the server.
-* Just simply say "BOB Warn @always_first11 for sneezing too loud and the user will receive
+* Just simply say "BOB Warn @always_first11 for sneezing too loud" and the user will receive
 ```
 ⚠️ Warning from ❄COLD❄II DRIVE WORLD CLUB
 
@@ -29,3 +29,4 @@ Please follow the server rules. Repeated violations may result in further action
 
 ### OWNER_ID
 Its basic id that you get from discord which is required for Owner based commands
+You can right click on your own username and "copy user id" and paste it in OWNER_ID while hosting
