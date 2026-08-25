@@ -1,0 +1,14 @@
+{
+  "name": "KING BOB",
+  "version": "1.0.0",
+  "description": "Discord AI chatbot , a personal work by always_first11 4mp13madhavpandey@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "groq-sdk": "^0.9.1",
+    "dotenv": "^16.4.5"
+  }
+}
