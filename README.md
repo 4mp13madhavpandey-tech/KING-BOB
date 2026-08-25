@@ -1,6 +1,7 @@
 # KING-BOB
 King Bob is a smart Discord AI Bot that can be used through any model and its API Key with self developed crash handlers and rate reliefs through Logic.
-
+Add me on discord.com 
+Username : 1.always_first11
 ## Developed on small scale but..
 * It can keep any dead discord chat alive
 * Its good to have a chaotic Minion in server.
