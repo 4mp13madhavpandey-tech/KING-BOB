@@ -3,7 +3,7 @@ King Bob is a smart Discord AI Bot that can be used through any model and its AP
 Add me on discord.com 
 
 # CONTACT ME
-Username : 1.always_first11
+Discord Username : 1.always_first11
 
 Mail : 4mp13madhavpandey@gmail.com
 
