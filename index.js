@@ -18,10 +18,10 @@ const client = new Client({
 
 // --- API key pool ---
 const API_KEYS = [
-  process.env.GROQ_API_KEY_1,
-  process.env.GROQ_API_KEY_2,
-  process.env.GROQ_API_KEY_3,
-  process.env.GROQ_API_KEY_4,
+  process.env.API_KEY1,
+  process.env.API_KEY2,
+  process.env.API_KEY3,
+  process.env.API_KEY4,
   process.env.GROQ_API_KEY,
 ].filter(Boolean);
 
